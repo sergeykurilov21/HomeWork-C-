@@ -1,0 +1,15 @@
+/Users/Sergej/Desktop/Homework/Examples1/bin/Debug/net6.0/Examples1
+/Users/Sergej/Desktop/Homework/Examples1/bin/Debug/net6.0/Examples1.deps.json
+/Users/Sergej/Desktop/Homework/Examples1/bin/Debug/net6.0/Examples1.runtimeconfig.json
+/Users/Sergej/Desktop/Homework/Examples1/bin/Debug/net6.0/Examples1.dll
+/Users/Sergej/Desktop/Homework/Examples1/bin/Debug/net6.0/Examples1.pdb
+/Users/Sergej/Desktop/Homework/Examples1/obj/Debug/net6.0/Examples1.csproj.AssemblyReference.cache
+/Users/Sergej/Desktop/Homework/Examples1/obj/Debug/net6.0/Examples1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sergej/Desktop/Homework/Examples1/obj/Debug/net6.0/Examples1.AssemblyInfoInputs.cache
+/Users/Sergej/Desktop/Homework/Examples1/obj/Debug/net6.0/Examples1.AssemblyInfo.cs
+/Users/Sergej/Desktop/Homework/Examples1/obj/Debug/net6.0/Examples1.csproj.CoreCompileInputs.cache
+/Users/Sergej/Desktop/Homework/Examples1/obj/Debug/net6.0/Examples1.dll
+/Users/Sergej/Desktop/Homework/Examples1/obj/Debug/net6.0/refint/Examples1.dll
+/Users/Sergej/Desktop/Homework/Examples1/obj/Debug/net6.0/Examples1.pdb
+/Users/Sergej/Desktop/Homework/Examples1/obj/Debug/net6.0/Examples1.genruntimeconfig.cache
+/Users/Sergej/Desktop/Homework/Examples1/obj/Debug/net6.0/ref/Examples1.dll

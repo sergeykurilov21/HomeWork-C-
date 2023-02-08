@@ -1,18 +1,44 @@
-﻿Console.Write("Введите число: ");
-int.TryParse(Console.ReadLine() , out int n);
-int temp = n;
-int rev = 0;
-while(n > 0)
+﻿PolindrimColculate(ReadInt("number"));
+
+int ReadInt(string argument)
 {
-    int dig = n % 10;
-    rev = rev * 10 + dig;
-    n = n / 10;
-}
-if(temp == rev)
+    Console.Write($"Введите {argument}:");
+    int number;
+
+    while(!int.TryParse(Console.ReadLine(),out number))
+    {
+        Console.WriteLine("Это не число");
+    }
+
+    return number;
+           
+}  
+
+void PolindrimColculate(int number)
 {
-    Console.Write("Это палиндром!");
+    int rev=0;
+    int temp=number;
+
+    while(number > 0)
+    {
+        int dig = number % 10;
+        rev = rev * 10 + dig;
+        number = number / 10;
+    }
+    if(temp==rev)
+    {
+        Console.Write("Polindrum");
+    }
+    else
+    {
+        Console.Write("Not polindrum");
+     }
+    
+    
+  
 }
-else
-{
-    Console.Write("Это не палиндром!");
-}
+
+
+
+
+
